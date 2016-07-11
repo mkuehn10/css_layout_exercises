@@ -1,0 +1,40 @@
+.main {
+    width: 800px;
+    margin: 0 auto;
+    font-size: 0;
+}
+
+.row-one {
+    height: 200px;
+    width: 50%;
+    font-size: 0;
+    display: inline-block;
+}
+
+.row-two {
+    height: 300px;
+    width: 33.33%;
+    border: 1px solid black;
+    font-size: 0;
+    display: inline-block;
+
+}
+.green {
+    background-color: green;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.gray {
+    background-color: gray;
+}
+
+.black {
+    background-color: black;
+}
+
+.yellow {
+    background-color: yellow;
+}
